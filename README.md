@@ -31,9 +31,8 @@ Networking & Recon: Scapy, Bettercap, Recon-ng
 Security: Nessus, Windows CLI
 
 📫 How to Reach Me
-📧 Email: your-email@example.com
-💼 LinkedIn: https://linkedin.com/in/your-profile
-📁 GitHub: https://github.com/your-username
+📧 Email: hiteshus816@gmail.com
+💼 LinkedIn: http://www.linkedin.com/in/hitesh-chowdary-53329b204
 
 <!--
 **hiteshus816/hiteshus816** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
