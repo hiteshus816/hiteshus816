@@ -175,7 +175,7 @@ Captured and analyzed network traffic to identify protocols, malicious activity,
 # Connect With Me
 
 LinkedIn:
-www.linkedin.com/in/hitesh-bandaru
+[www.linkedin.com/in/hitesh-bandaru](https://www.linkedin.com/in/hitesh-chowdary-53329b204/)
 
 Email:
 hiteshus816@gmail.com
