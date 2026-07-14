@@ -1,184 +1,259 @@
 # Hi, I'm Hitesh Chowdary Bandaru 👋
 
-### Cybersecurity Graduate Student | CompTIA Security+ | Aspiring Penetration Tester & Security Analyst
+## Security Operations & Application Security Engineer
 
-🎓 M.S. Cybersecurity & Information Assurance
+🎓 M.S. Cybersecurity & Information Assurance  
 University of Central Missouri (Expected May 2026)
 
----
-
-## About Me
-
-I am a cybersecurity graduate student focused on offensive security, Active Directory security, vulnerability assessment, and security operations.
-
-I enjoy building hands-on labs, documenting attack techniques, and understanding how attackers operate so defenders can detect and stop them.
-
-Currently preparing for a career as a:
-
-- Junior Penetration Tester
-- SOC Analyst
-- Security Analyst
+🛡️ SOC Analyst | Application Security | Cloud Security | DevSecOps
 
 ---
 
-## Current Focus
+# 👨‍💻 About Me
 
-- Hack The Box CPTS Path
-- Active Directory Security
-- Windows Privilege Escalation
-- Python Security Automation
-- SIEM & Detection Engineering
+I'm a cybersecurity professional with experience across Security Operations Center (SOC), Application Security, Cloud Security, and DevSecOps.
+
+My background includes monitoring enterprise environments, investigating security incidents, performing vulnerability assessments, integrating security into CI/CD pipelines, and securing cloud workloads across AWS and Azure.
+
+I enjoy building security labs, automating security workflows, documenting technical research, and continuously improving offensive and defensive security skills.
+
+---
+
+# 🎯 Career Interests
+
+- Security Operations Center (SOC)
 - Threat Detection & Incident Response
+- Application Security
+- Cloud Security
+- DevSecOps
+- Detection Engineering
+- Threat Hunting
 
 ---
 
-# Technical Skills
+# 🔭 Currently Learning
 
-### Operating Systems
+- Advanced Threat Hunting
+- Detection Engineering
+- Microsoft Sentinel
+- Splunk ES
+- Malware Analysis
+- Kubernetes Security
+- Advanced Cloud Security
+- HTB CPTS Labs
 
-- Windows
-- Linux (Ubuntu, Kali)
+---
 
-### Networking
+# 🛠 Technical Skills
 
-- TCP/IP
-- DNS
-- DHCP
-- HTTP/HTTPS
-- SMB
-- LDAP
-- Kerberos
+## Security Operations
 
-### Offensive Security
+- Splunk SIEM
+- Splunk SOAR
+- CrowdStrike Falcon
+- Snort IDS/IPS
+- Proofpoint
+- ServiceNow
 
-- Active Directory Enumeration
-- Privilege Escalation
-- Password Attacks
-- Network Enumeration
-- Vulnerability Assessment
-- Metasploit Exploitation
-- Buffer Overflow Fundamentals
+---
 
-### Defensive Security
+## Threat Intelligence & Vulnerability Management
 
-- Security Monitoring
+- Qualys
+- Recorded Future
+- MITRE ATT&CK
+- Threat Hunting
 - Incident Response
-- Windows Event Analysis
-- Network Traffic Analysis
-- Threat Hunting Fundamentals
+- Vulnerability Assessment
 
-### Tools
+---
 
-- Nmap
-- Metasploit
-- BloodHound
-- Hydra
-- Wireshark
-- Nessus
-- Burp Suite
-- Netcat
-- Evil-WinRM
-- PowerView
-- Bettercap
-- Recon-ng
-- Scapy
+## Application Security
 
-### Programming
+- Checkmarx (SAST)
+- Burp Suite Professional (DAST)
+- Snyk (SCA)
+- Secure Code Review
+- Threat Modeling
+- OWASP Top 10
+- OWASP ASVS
+
+---
+
+## Cloud Security
+
+### AWS
+
+- GuardDuty
+- CloudTrail
+- Security Hub
+- IAM
+
+### Microsoft Azure
+
+- Defender for Cloud
+- Azure AD
+- Key Vault
+
+---
+
+## DevSecOps
+
+- Jenkins
+- Azure DevOps
+- Git
+- Docker
+- Secure CI/CD Pipelines
+
+---
+
+## Programming & Scripting
 
 - Python
 - PowerShell
 - Bash
+- Java
 
 ---
 
-# Featured Projects
+## Security Frameworks
 
-## Active Directory Attack Lab
+- NIST 800-53
+- PCI-DSS
+- SOX
+- MITRE ATT&CK
+- STRIDE
 
-Simulated an enterprise Active Directory environment to perform enumeration, privilege escalation, lateral movement, and credential attacks.
+---
 
-Skills:
+# 🚀 Featured Projects
+
+## 🔹 Active Directory Attack Lab
+
+Enterprise Active Directory lab covering:
+
+- AD Enumeration
+- Privilege Escalation
+- Kerberoasting
+- Lateral Movement
+- BloodHound Analysis
+- Evil-WinRM
+- PowerView
+
+**Tools**
 
 - BloodHound
 - PowerView
-- Kerberos
+- Impacket
 - Evil-WinRM
+- CrackMapExec
 
 ---
 
-## DNS Cache Poisoning Lab
+## 🔹 SOC Detection Lab
 
-Performed DNS spoofing using Bettercap to understand cache poisoning attacks and mitigation strategies.
+Built a SOC lab for monitoring and investigating security events.
 
-Skills:
+Topics include:
 
-- Bettercap
-- DNS
-- Packet Analysis
-- Network Security
+- Log Analysis
+- Threat Detection
+- Alert Investigation
+- Windows Event Logs
+- Incident Triage
 
----
+**Tools**
 
-## Network Reconnaissance & Exploitation
-
-Performed service discovery, vulnerability identification, and exploitation using industry-standard penetration testing methodology.
-
-Tools:
-
-- Nmap
-- Metasploit
-- Netcat
-
----
-
-## Password Attack Lab
-
-Performed password auditing and brute-force attacks against lab systems.
-
-Tools:
-
-- Hydra
-- Hashcat
-- John the Ripper
-
----
-
-## Vulnerability Assessment
-
-Conducted vulnerability assessments and analyzed security findings using Nessus.
-
----
-
-## Packet Analysis Lab
-
-Captured and analyzed network traffic to identify protocols, malicious activity, and attack patterns using Wireshark.
-
----
-
-# Certifications
-
-✅ CompTIA Security+
-
----
-
-# Currently Learning
-
-- HTB Certified Penetration Testing Specialist (CPTS) Path
-- Detection Engineering
 - Splunk
-- Microsoft Sentinel
-- Malware Analysis
-- Cloud Security Fundamentals
+- Sysmon
+- Windows Event Viewer
+- Sigma Rules
 
 ---
 
-# Connect With Me
+## 🔹 Vulnerability Management Lab
 
-LinkedIn:
-[www.linkedin.com/in/hitesh-bandaru](https://www.linkedin.com/in/hitesh-chowdary-53329b204/)
+Performed enterprise-style vulnerability assessments.
 
-Email:
-hiteshus816@gmail.com
+Topics:
 
-GitHub:
+- Asset Discovery
+- Vulnerability Prioritization
+- Risk Assessment
+- Remediation Validation
+
+**Tools**
+
+- Qualys
+- Nessus
+
+---
+
+## 🔹 Application Security Lab
+
+Hands-on AppSec testing covering:
+
+- SAST
+- DAST
+- Dependency Scanning
+- OWASP Top 10
+
+**Tools**
+
+- Burp Suite Professional
+- Checkmarx
+- Snyk
+
+---
+
+## 🔹 Cloud Security Lab
+
+AWS & Azure security monitoring and hardening.
+
+Topics:
+
+- IAM Best Practices
+- CloudTrail Analysis
+- GuardDuty Findings
+- Azure Defender
+- Key Vault Security
+
+---
+
+# 📜 Certifications
+
+- ✅ CompTIA Security+
+- 🎯 Preparing for:
+  - GIAC GCIH
+  - AWS Security Specialty
+  - Microsoft AZ-500
+
+---
+
+# 📈 GitHub Goals
+
+- Security Research
+- Detection Rules
+- Sigma Rules
+- SOC Playbooks
+- Blue Team Labs
+- Cloud Security Projects
+- Application Security Labs
+- Python Security Automation
+
+---
+
+# 🤝 Connect With Me
+
+📧 Email  
+**hiteshmark04@gmail.com**
+
+💼 LinkedIn  
+https://www.linkedin.com/in/hitesh-bandaru
+
+💻 GitHub  
 https://github.com/hiteshus816
+
+---
+
+> *"Security isn't about finding vulnerabilities—it's about understanding how systems fail, defending them effectively, and continuously improving resilience."*
